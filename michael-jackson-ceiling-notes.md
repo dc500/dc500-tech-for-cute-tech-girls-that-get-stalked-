@@ -14,7 +14,7 @@ Things needed
 [] raspberry zero w 
 [] camera module
 [] self built router/firewall
-^ Not complete
+
 ##
 Requirements
 ##
