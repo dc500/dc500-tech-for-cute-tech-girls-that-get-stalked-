@@ -5,6 +5,7 @@ Inspired by "Billie Jean" Michael Jackson video.
  <a href="https://player.vimeo.com/video/344918190"> Watch BILLIE JEAN on Vimeo</a>.</p>
  
 Things needed
+##
 [] sound sensor module
 [] led light
 [] wire or battery
@@ -14,7 +15,7 @@ Things needed
 [] camera module
 [] self built router/firewall
 ^ Not complete
-
+##
 Requirements
-
+##
 Steps
