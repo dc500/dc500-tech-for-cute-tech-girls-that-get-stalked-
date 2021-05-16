@@ -19,3 +19,9 @@ Things needed
 Requirements
 ##
 Steps
+
+
+Do not feed 5V into a Pi GPIO. Can only tolerant 3V3. 
+Use resistors to form a voltage divider to dropping 5V output to 3V3.
+Turn small pot with a screw - adjust audio threshold level for the output pin to be switched high. 
+Select desired level.
